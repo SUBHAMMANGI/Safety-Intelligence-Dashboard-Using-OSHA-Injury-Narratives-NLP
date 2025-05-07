@@ -7,7 +7,7 @@ This project applies **Natural Language Processing (NLP)** and **predictive mode
 ---
 
 ## 📂 **Dataset Information**
-- **Source**: Internal OSHA data / Hand Injuries with Machines dataset (link to your file)
+- **Source**: Internal OSHA data / Hand Injuries with Machines dataset 
 - **Description**: The dataset contains information about workplace injuries, with a focus on hand injuries and their connection to machinery. Key fields in the dataset include:
   - **Injury Type**: Type of injury (e.g., hand, arm)
   - **Machine Type**: Type of machine associated with the injury
